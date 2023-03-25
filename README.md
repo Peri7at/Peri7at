@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi, I'm Peri 🙋🏻‍♀️👩🏻‍💻
+
+I'm a web developer, who is passionate about the tech industry, where I will be delivering projects or tools that enhances and enriches people's life. I am keen on learning new technologies and always open to widen my knowledge horizon.
+
+
+## Find me around the web 🌎: <a href="https://github.com/Peri7at"><img align="left"></a>
+- Sharing updates on <a href="https://www.linkedin.com/in/perizat-ibraeva/">LinkedIn</a> 💼
 
 <!--
 **Peri7at/Peri7at** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
